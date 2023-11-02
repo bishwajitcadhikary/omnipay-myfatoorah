@@ -1,5 +1,5 @@
 {
-    "name": "myfatoorah/omnipay",
+    "name": "bishwajitcadhikary/omnipay-myfatoorah",
     "description": "MyFatoorah driver for the Omnipay payment processing library",
     "type": "library",
     "require": {
